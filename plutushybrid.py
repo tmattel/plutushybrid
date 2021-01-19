@@ -1,5 +1,5 @@
 import binascii
-import mnemonic
+from mnemonic import Mnemonic
 import bip32utils
 import random
 import os
